@@ -1,5 +1,5 @@
 # Emoji-Kmeans-Clustering
-The goal of this project was to use Kmeans Clustering on a dataset of emojis in order to group them;
+The goal of this project was to use Kmeans Clustering on a dataset of emojis in order to group them.
 
 # The Data
 There are 2 data files. One is a lookup file, which has emoji names across from their corresponding emojis, stored in tsv format. The other file contains 300 dimesional vectors corresponding to each emoji (what they represent is unkown to me).
